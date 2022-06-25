@@ -1,0 +1,17 @@
+package br.com.fiap.tds;
+
+
+public class OlaMundo {
+	/*Camel case "OlaMundo" "Ola_M_undo" this notation in the middle "M"*/
+	
+	//workspace
+	//project
+	//package
+	//class
+	
+	public static void main(String[] args) {
+	
+		System.out.println("FIAP - Olá Mundo! !");
+	
+}
+}
