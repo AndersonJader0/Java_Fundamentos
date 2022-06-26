@@ -1,0 +1,17 @@
+Package br.com.fiap.decinc;
+
+public class IncDec {
+
+    public static void main(Strings[] args) u
+
+    int x = 10, y = 15, w = 20;
+
+    //x++      adiciona +1 no x;
+    //++x      adiciona +1 no x tbm,
+
+    w = y++ {
+
+}
+
+     }
+}
