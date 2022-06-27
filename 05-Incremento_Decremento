@@ -4,13 +4,20 @@ public class IncDec {
 
     public static void main(Strings[] args) u
 
-    int x = 10, y = 15, w = 20;
+    int x = 10, y = 5, w = 5;
 
     //x++      adiciona +1 no x;
     //++x      adiciona +1 no x tbm,
 
-    w = y++ {
+    z = w++ {
+    System.out.println("z = " + z);
+    System.out.println("w = " + w);
 
+
+    z= --a {
+    System.out.println("z = " + z);
+     System.out.println("a = " + a);
+   }
 }
 
      }
