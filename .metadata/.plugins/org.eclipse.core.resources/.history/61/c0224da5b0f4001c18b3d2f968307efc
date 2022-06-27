@@ -1,0 +1,29 @@
+package br.com.fiap.si;
+
+public class Conversoes {
+	
+	public static void main(String[] args) {
+		
+		int x = 10;
+		double d = x;
+		long l = x;
+		float f = x;
+		
+		//Pode haver a perda informações como de int para short;
+		
+		//é possível fazer a conversão por meio de cast;
+		
+		//Exemplo:
+		
+		int y = (int) x;
+		int p = (int) d;
+		
+		double numero1 = Double.parseDouble(l);
+		
+		System.out.println(p);
+		
+		
+		
+	}
+	
+}

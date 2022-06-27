@@ -1,0 +1,13 @@
+package br.com.fiap.si;
+
+public class Condicionais {
+	
+	//if (condição) instrução.
+	
+	/*if (condição) {
+	instrução1;
+	instrução2;
+	}
+	*/
+	
+}
