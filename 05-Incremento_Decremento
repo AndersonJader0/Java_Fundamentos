@@ -7,12 +7,14 @@ public class IncDec {
     int x = 10, y = 5, w = 5;
 
     //x++      adiciona +1 no x;
-    //++x      adiciona +1 no x tbm,
+    //++x      adiciona +1 no x tbm.
+
+    // x--     subtrai 1 no x
+    // --×     subtrai 1 no x tbm.
 
     z = w++ {
     System.out.println("z = " + z);
     System.out.println("w = " + w);
-
 
     z= --a {
     System.out.println("z = " + z);
