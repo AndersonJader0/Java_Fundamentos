@@ -20,7 +20,7 @@ public class ExercicioImc {
 			System.out.println("Classificação: magreza");
 		}else if (calculo >= 18.5 && calculo <= 25) {
 			System.out.println("Classificação: normalidade");
-		}else if (calculo > 25) {
+		}else {
 			System.out.println("Classificação: obesidade");
 		}
 	}
