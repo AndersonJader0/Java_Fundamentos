@@ -17,8 +17,8 @@ public class IncDec {
     System.out.println("w = " + w);
 
     z= --a {
-    System.out.println("z = " + z);
-     System.out.println("a = " + a);
+    System.out.println("z = " + z);  //resultado 4
+     System.out.println("a = " + a); //resultado 4
    }
 }
 
