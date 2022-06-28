@@ -6,9 +6,9 @@ public class Teste {
 		
 		double valor = cc.saldo; //Utilizando o operador (.), podemos acessar as variáveis de instância e métodos do objeto.
 		
-		cc.saldo = 100; //para atribuir um valor ao atributo do objeto, utiliza-se o operador de atribuição.
-		cc.agencia = 123;
-		cc.numero = 321;
+		cc.depositar(100); //para atribuir um valor ao atributo do objeto, utiliza-se o operador de atribuição.
+		cc.setAgencia(123);
+		cc.setNumero(321);
 		
 		System.out.println("Saldo: " + cc.saldo);
 		
