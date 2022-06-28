@@ -16,7 +16,7 @@ public class Teste {
 		
 		cc.depositar(100); //chama um método do objeto.
 		
-		System.out.println("Saldo depois do deposito: " + cc.verificarSaldo());
+		System.out.println("Saldo depois do deposito: " + cc.getSaldo());
 		
 		
 		Conta poupança = new Conta(111, 222, 1000); //Cria um objeto Conta utilizando o construtor que recebe valores iniciais para os atributos do objeto.
