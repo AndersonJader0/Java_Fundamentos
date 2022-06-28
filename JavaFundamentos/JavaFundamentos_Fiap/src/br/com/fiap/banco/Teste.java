@@ -10,7 +10,7 @@ public class Teste {
 		cc.setAgencia(123);
 		cc.setNumero(321);
 		
-		System.out.println("Saldo: " + cc.getSaldo);
+		System.out.println("Saldo: " + cc.getSaldo());
 		
 		/*Chamar um método de um objeto é semelhante ao acesso de um atributo: é utilziada a notação de ponto.*/
 		
