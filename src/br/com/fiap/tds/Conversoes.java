@@ -1,4 +1,4 @@
-package br.com.fiap.si;
+package br.com.fiap.tds;
 
 public class Conversoes {
 	
@@ -27,8 +27,5 @@ public class Conversoes {
 		boolean precisaVotar = idade > 18 && idade < 70; //AND
 		boolean teste = x < 10 || x > 50; //OR
 		!(idade > 18); //NOT
-		
-		
 	}
-	
 }

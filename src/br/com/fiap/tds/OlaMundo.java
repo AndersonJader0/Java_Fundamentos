@@ -12,8 +12,8 @@ public class OlaMundo {
 	
 	
 	/*-----------possivel--também--atribuir--valores--a--variáveis-----------*/
-	int idade = 10;
-	double preco = 10.0; //esse = é o famoso "recebe" "ATRIBUIDOR"
+	//int idade = 10;
+	//double preco = 10.0; //esse = é o famoso "recebe" "ATRIBUIDOR"
 //o atribuidor serve também para calculos como forma de agilizar o processo, exemplo;
 //idade += 11;   na verdade acontece que idade recebe o valor dela 10 + 11;
 	char sexo = 'M'; //ainda não havia criado um char sexo então não está com erro.
