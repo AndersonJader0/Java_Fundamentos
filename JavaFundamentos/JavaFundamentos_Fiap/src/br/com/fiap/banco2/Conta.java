@@ -1,13 +1,12 @@
-package br.com.fiap.banco;
+package br.com.fiap.banco2;
 
-	public class Conta{
-		int numero, agencia;
-		double saldo;
+public class Conta{
+	private int numero, agencia;
+	private double saldo;
 	
-
-		public Conta() {
-			super();
-		}
+	public Conta(){
+		//constructor default: void
+	}
 	
 	public Conta(int numero, int agencia, double saldo){
 		this.numero = numero;
@@ -23,7 +22,7 @@ package br.com.fiap.banco;
 		this.saldo -= valor;
 	}
 	
-	public double verificarSaldo(){
+	public double getSaldo(){
 		return saldo;
 	}
 }
