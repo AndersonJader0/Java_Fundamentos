@@ -25,5 +25,10 @@ public class ContaCorrente extends Conta {
 		return getSaldo() + this.chequeEspecial;
 	}
 	
+        /*
+        Conta conta = new Conta()
+        Conta cc = new ContaCorrente();
+*/ //Pode utilizar um objeto da subclasse sempre que o programa esperar por um objeto da superclasse.
+   // Assim é possível atribuir um objeto do tipo conta corrente em uma variavel do tipo conta.
 	
 }
