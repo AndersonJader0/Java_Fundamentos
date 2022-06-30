@@ -28,7 +28,11 @@ public class ContaCorrente extends Conta {
         /*
         Conta conta = new Conta()
         Conta cc = new ContaCorrente();
-*/ //Pode utilizar um objeto da subclasse sempre que o programa esperar por um objeto da superclasse.
-   // Assim é possível atribuir um objeto do tipo conta corrente em uma variavel do tipo conta.
+        */ //Pode utilizar um objeto da subclasse sempre que o programa esperar por um objeto da superclasse.
+           // Assim é possível atribuir um objeto do tipo conta corrente em uma variavel do tipo conta.
+
+        /*Pode ainda atribuir a um objeto referenciado na variável cc a uma variavel do tipo ContaCorrente com o uso de cast.
+        ContaCorrente c1 = (ContaCorrente) cc;
+        */
 	
 }
