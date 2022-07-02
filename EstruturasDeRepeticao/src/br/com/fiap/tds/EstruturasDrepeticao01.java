@@ -9,5 +9,3 @@ public class EstruturasDrepeticao01 {
 			System.out.println(numero);		}
 		}
 	}
-		
-	
