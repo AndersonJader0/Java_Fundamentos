@@ -1,7 +1,7 @@
 package ComArray;
 import java.util.Scanner;
 
-public class NotasAlunos02 {
+public class NotasAlunos {
 	
 	public static void main(String[] args) {
 		
@@ -13,7 +13,7 @@ public class NotasAlunos02 {
 		}
 		sc.close();
 		
-		//calculator
+		//calculator media
 		float totalNotas = 0;
 		for (int i = 0; i < notas.length; i++) {
 			totalNotas = totalNotas + notas[i];
