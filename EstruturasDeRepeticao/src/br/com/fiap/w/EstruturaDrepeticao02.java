@@ -1,4 +1,4 @@
-package br.com.fiap.tds;
+package br.com.fiap.w;
 import javax.swing.JOptionPane;
 
 public class EstruturaDrepeticao02 {
