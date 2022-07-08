@@ -1,4 +1,4 @@
-package br.com.fiap.w;
+package br.com.fiap.wh1l3;
 
 public class EstruturasDrepeticao01 {
 	public static void main(String[] args) {

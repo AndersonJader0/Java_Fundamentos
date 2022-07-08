@@ -42,7 +42,7 @@ public class Carro {
 			String modelo2 = carros[1].getModelo2();
 			
 			String calc = "Modelo do carro 1: " + modelo
-					+ "\n Modelo do carro 2: " + modelo2;
+					+"\nModelo do carro 2: " + modelo2;
 			
 			JOptionPane.showMessageDialog(null, calc);
 		}
